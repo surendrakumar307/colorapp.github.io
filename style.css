@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+h1{
+text-align: center;
+color: black;
+font-family: Arial, Heletica,sans-serif;
+}
+
+
+.btn{
+    color:white;
+    background-color: blue;
+    border-radius:10px;
+    height: 30px;
+    width: 100px; 
+    margin-left: 600px;
+    margin-top:25px;
+
+
+}
+.btn:hover{
+    background-color: cornflowerblue;
+    transition: 0.3;
+}
